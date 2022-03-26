@@ -1,1 +1,2 @@
-Hi, this is chapter1 of my novel, as you can see i have started to write somethihng in my chapters 
+Hi, this is chapter1 of my novel, as you can see i have started to write somethihng in my chapters.
+I have to learn Git and after that i have to learn dockers and kubernetes as well and then a scripting language that is terraform than i dont know how much time i have to spend on those things. 
