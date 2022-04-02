@@ -1,3 +1,5 @@
 Hi
 In this file i will write about the characters of my novel. This file will showthe main characters of my novel and if you read this file you will get to know that.
-This is another edit to demonstrate how to append if we commit and wants to undo that and add some changes and than commit. 
+This is another edit to demonstrate how to append if we commit and wants to undo that and add some changes and than commit.
+
+I am writing this on empty branch created by me just to demonstrate the push command and how to push your repo in github. 
